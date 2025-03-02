@@ -1,5 +1,6 @@
 # Dashboard_Consolidacion
 Dashboard consolidado de variables: cartera, ventas, siniestros, bajas
+Usado para planificación estratégica de la empresa, evitando posibles fraudes de clientes que tienen siniestros en periodos muy cortos luego de comprar el seguro. Se evaluaron datos en común, como lugar donde viven, rango etario, genero, etc.
 
 
 #Variables
